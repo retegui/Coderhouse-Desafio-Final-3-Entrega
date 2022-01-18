@@ -105,6 +105,16 @@ h3:hover, h3:active{
     color:red
 }
 /* Fin de Parallax Footer */
+ .carousel-art{
+     margin-bottom: 50px;
+     justify-content: center;
+ }
+.carousel-item{
+    height: 500px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    }
 
 /*Slider antes y depues*/
 
@@ -334,4 +344,7 @@ h3:hover, h3:active{
 .videosReparacion {
     text-align: center;
     margin-bottom: 100px;
+}
+.contacto{
+    margin-bottom: 25px;
 }
